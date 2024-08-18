@@ -1,4 +1,4 @@
-baseURL: https://miguel-saiph.github.io/miguelsph/
+baseURL: /
 languageCode: "en-us"
 title: "Miguel Angel Lillo"
 theme: hugo-profile
