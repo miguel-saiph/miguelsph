@@ -1,9 +1,8 @@
-baseURL: ""
+baseURL: "/"
 languageCode: "en-us"
 title: "Miguel Angel Lillo"
 theme: hugo-profile
 relativeUrls: true
-
 
 outputs:
   home:
