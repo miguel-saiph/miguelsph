@@ -114,7 +114,7 @@ params:
     disableSearch: true
     # searchPlaceholder: "Search"
     stickyNavBar:
-      enable : true
+      enable : false
       showOnScrollUp : true
     enableSeparator: true
     menus:
@@ -131,7 +131,7 @@ params:
     intro: "Hola, mi nombre es"
     title: "Miguel"
     subtitle: "Desarrollo aplicaciones y páginas web"
-    content: "Me apasiona resolver problemas y crear soluciones que le hagan más fácil la vida a las personas. Soy capaz de investigar y aprender lo que sea necesario para llegar a una solución viable. Disfruto el camino."
+    content: "Me apasiona resolver problemas y crear soluciones que sean útiles a las personas. Soy capaz de aplicar mis conocimientos o aprender lo que sea necesario para llegar a una solución viable. Disfruto el camino."
     image: /images/cover.png
     bottomImage:
       enable: true
@@ -158,9 +158,9 @@ params:
     title: "Sobre mí"
     image: "/images/profile.png"
     content: |-
-      Soy un desarrollador de software con más de 5 años de experiencia en el desarrollo de aplicaciones web/móviles y páginas web.
+      Soy un desarrollador de software con más de 5 años de experiencia en el desarrollo de aplicaciones web/móviles y páginas web. He participado en todas las etapas del ciclo de creación de software, llegando a soluciones eficientes y escalables.
 
-      He trabajado principalmente en los rubros de la educación y el entretenimiento, con un foco puesto en la interactividad, bajo metodologías ágiles con equipos multidisciplinarios.
+      He trabajado principalmente en los rubros de la educación y el entretenimiento, con un fuerte foco en la interactividad, bajo metodologías ágiles en equipos multidisciplinarios.
 
       Actualmente estoy buscando ampliar mi experiencia en otros rubros, desarrollando soluciones a problemas distintos a los que me he enfrentado anteriormente.
     skills:
@@ -193,7 +193,7 @@ params:
           url: "https://vimur.artstation.com/albums/11034782"
         content: | 
           Estuve a cargo de desarrollar videojuegos web/mobile para Cartoon Network USA/UK
-          - Participé en más de 12 proyectos y lideré 7 de estos, participando en el modelado, prototipado, implementación, localización y entrega final.
+          - Colaboré en más de 12 proyectos y lideré 7 de estos, participando en el modelado, prototipado, implementación, localización y entrega final.
           - Escribí documentación (a veces por iniciativa propia) de tareas repetitivas para mejorar los tiempos de desarrollo y QA. También realicé investigación de nuevas tecnologías para futuros proyectos.
           - Tecnologías más utilizadas:
             - TypeScript
@@ -349,8 +349,8 @@ params:
   contact:
     enable: true
     title: "Contacto"
-    content: Si tienes alguna pregunta o sólo quieres ponerte en contacto, no dudes en contactarme.
-    btnName: Mail me
+    content: Si tienes alguna pregunta no dudes en contactarme.
+    btnName: Email
     btnLink: mailto:miguelc12vm@gmail.com
     # formspree:
     #   enable: true # `contact.email` value will be ignored
