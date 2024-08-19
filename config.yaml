@@ -132,7 +132,7 @@ params:
     intro: "Hola, mi nombre es"
     title: "Miguel"
     subtitle: "Desarrollo aplicaciones y páginas web"
-    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that look great, feel fantastic, and function correctly."
+    content: "Me apasiona resolver problemas y crear soluciones que le hagan más fácil la vida a las personas. Soy capaz de investigar y aprender lo que sea necesario para llegar a una solución viable. Disfruto el camino."
     image: /images/cover.png
     bottomImage:
       enable: true
@@ -140,15 +140,15 @@ params:
     button:
       enable: true
       name: "Currículum"
-      url: "#"
+      url: "/cv_miguel_lillo.pdf"
       download: true
       newPage: false
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
           url: https://github.com/miguel-saiph
-        - icon: fab fa-x-twitter
-          url: https://example.com
+        - icon: fab fa-linkedin
+          url: https://www.linkedin.com/in/miguel-angel-lillo-cabrera/
       customIcons:
         # - icon: /fav.png
         #   url: "https://example.com"
@@ -159,9 +159,11 @@ params:
     title: "Sobre mí"
     image: "/images/profile.png"
     content: |-
-      I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA.
+      Soy un desarrollador de software con más de 5 años de experiencia en el desarrollo de aplicaciones web/móviles y páginas web.
 
-      I am currently working on a project that will be used to help people find the best way to get around the city.
+      He trabajado principalmente en los rubros de la educación y el entretenimiento, con un foco puesto en la interactividad, bajo metodologías ágiles con equipos multidisciplinarios.
+
+      Actualmente estoy buscando ampliar mi experiencia en otros rubros, desarrollando soluciones a problemas distintos a los que me he enfrentado anteriormente.
     skills:
       enable: true
       title: "Estas son algunas de las tecnologías con las que he trabajado:"
@@ -288,7 +290,7 @@ params:
     title: "Hobbies"
     items:
       - title: Juegos de mesa
-        content: Cuando no estoy resolviendo puzzles en el computador, estoy resolviendo puzzles en la vida real.
+        content: Cuando no estoy resolviendo puzzles en el computador, estoy resolviendo puzzles en un tablero.
         # url: https://example.com
         image: /images/hobbies/bg.png
       - title: Observación de aves
@@ -348,7 +350,7 @@ params:
   contact:
     enable: true
     title: "Contacto"
-    content: Si tienes alguna pregunta o sólo quieres decir hola, no dudes en contactarme.
+    content: Si tienes alguna pregunta o sólo quieres ponerte en contacto, no dudes en contactarme.
     btnName: Mail me
     btnLink: mailto:miguelc12vm@gmail.com
     # formspree:
