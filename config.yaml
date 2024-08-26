@@ -227,7 +227,7 @@ params:
         info:
           enable: false
         featuredLink:
-          enable: true
+          enable: false
           name: "Web a la que di más soporte"
           url: "https://www.transbankdevelopers.cl/"
         content: |
@@ -305,6 +305,10 @@ params:
   projects:
     enable: true
     title: "Proyectos personales"
+    description: |
+      Estos son proyectos creados por motivación propia.
+
+      El portafolio profesional (lo que se puede mostrar) se encuentra en la sección anterior.
     items:
       - title: Harmonies Solo Companion
         content: Aplicación web y nativa (Android) para guardar progreso en el modo solitario del juego de mesa Harmonies.
